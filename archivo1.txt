@@ -2,4 +2,8 @@
 
 editando mi archivo
 
+<<<<<<< HEAD
 Cambio realizado en local
+=======
+Cambio realizado en GitHub (rama main)
+>>>>>>> 6a9f95b9232138d042a79d2b40a8a5fd665e9960
